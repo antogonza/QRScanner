@@ -1,0 +1,6 @@
+{
+	"appId": "es.antogonza.qrscanner",
+	"appName": "QRScanner",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}

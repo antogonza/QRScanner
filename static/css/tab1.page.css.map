@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,UAAU,CACV,SAAS,AAAC,CACR,MAAM,CAAE,IAAI,CACZ,KAAK,CAAE,IAAI,CACZ",
+    "sources": [
+        "../../src/app/pages/tab1/tab1.page.scss"
+    ],
+    "names": [],
+    "file": "tab1.page.css"
+}
